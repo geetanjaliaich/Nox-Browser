@@ -1,0 +1,916 @@
+  [ 2020-06-06 06:05:13 ]  https://www.researchgate.net/
+
+  [ 2020-06-06 06:05:26 ]  https://www.researchgate.net/login?_sg=NXEZDYSBUETXDsBV-CBFZo6izxWCvjJ_YLLiElCAK1njMRGjYp92iMApw9NWWDsG1xivYI-7vfalDITgHzWmhQ
+
+  [ 2020-06-06 06:05:36 ]  https://accounts.google.com/signin/oauth?scope=profile+email&state=28154b877858b7afc1f20d36bf173466&redirect_uri=https://www.researchgate.net/connector/google/connected&response_type=code&client_id=757030871092-9tvmq9ga1e7q37dmfqc4nl2nrer96ecv.apps.googleusercontent.com&o2v=1&as=drKpKvIWBSoe4HILb-ZzWA
+
+  [ 2020-06-06 06:05:39 ]  https://accounts.google.com/signin/oauth/identifier?scope=profile email&state=28154b877858b7afc1f20d36bf173466&redirect_uri=https%3A%2F%2Fwww.researchgate.net%2Fconnector%2Fgoogle%2Fconnected&response_type=code&client_id=757030871092-9tvmq9ga1e7q37dmfqc4nl2nrer96ecv.apps.googleusercontent.com&o2v=1&as=drKpKvIWBSoe4HILb-ZzWA&flowName=GeneralOAuthFlow
+
+  [ 2020-06-06 06:06:12 ]  https://accounts.google.com/signin/v2/challenge/pwd?scope=profile email&state=28154b877858b7afc1f20d36bf173466&redirect_uri=https%3A%2F%2Fwww.researchgate.net%2Fconnector%2Fgoogle%2Fconnected&response_type=code&client_id=757030871092-9tvmq9ga1e7q37dmfqc4nl2nrer96ecv.apps.googleusercontent.com&o2v=1&as=drKpKvIWBSoe4HILb-ZzWA&flowName=GeneralOAuthFlow&cid=1&navigationDirection=forward&TL=AM3QAYaJceGhEp9nrwWlY2H-yqaVZw7v6WgrHQUFfyfrPE736fs4yuFtwWEv1RqS
+
+  [ 2020-06-06 06:06:25 ]  https://accounts.google.co.in/accounts/SetSID?ssdc=1&sidt=ALWU2cuFUsEcLswel2Kj6bQljSIsK%2Fomn5nyb0dwP1kjYgmXEcORhHUtmY1cNmz0wY5qyovdSwl8rVHXKJxD53kXe2WDA1Xpa9%2BmlSSCMYuVGdvB%2Ba6VTEq9zJmhlKuvJHLYnYLntDwpKO20bdvd3KmpkqkyPQtwcVwSAz6Zh9Mr2sT359Aj8SZQNnNIJsumq5bYoKu5fr0%2FRKQfG6%2FTSM%2BUPGNFGw7RNXyzttZ%2BnFwtFEtzXhr6uNv6Zly7kWkMvmgHMwLsQhwgX2iiROk6phFfituWAFAdnasjBxhMz7fDIRRn8LPk9oc1aT4SV9FAy4L8V3ihvx2KhP6BhEpaNny749yIFfupJyIjsIld1DEPoOaotCNRqTA%3D&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hANYf5uM8Ka2SN3OOwd0oG3rtw_a6lQwg52FXwtAXb9uxOtl6Mnpg81RBWRnyORZC0h5CQmbz9EHAmXDwFK5vf5u1tAlNNrDfqOMi6kQaIj1j8-Dc6f9BpM9R7G863uaU8BeLb3sCcmWR6lIxyyiFXCgQXCFNbnfP1k5BlQNWFXUCDg309jQtHf8pjSOfnD7uXzyGrv1cAhI2eCZBaql99wzMf9WMIpqUIJxd2uDRTZbeEjrdwHKhtaNS4ovOgHG4HFqws3nOqK-c3qZIgZN5wC98h3rpe216Dh3XNvSd8PBHLXCxSpuYJX6CivtFwac8gu4khzAhhyvg3rLj7QaH9yPemvnj08C_k4juBET2e8KfKmi0MQCz5dONMLKCDeukT7TSePBiPziCGYugA4IIetBotHKvXeznNt7uZsTtnA-zVmW0ShqM04qODYV08bPQLlx_hC1%26as%3DdrKpKvIWBSoe4HILb-ZzWA%26rapt%3DAEjHL4MiZYtinrL-_9DQVE-ioqay5zHx6Mgxdp5uxtfQQoitvHvGIk_3NeN2Slz5hxVndnSd_1v2bn-v29U-0vrrKV9kaH1B-Q%23&tcc=1
+
+  [ 2020-06-06 06:06:25 ]  https://accounts.google.co.in/accounts/SetSID
+
+  [ 2020-06-06 06:06:28 ]  https://www.researchgate.net/signup.SignUp.html#
+
+  [ 2020-06-06 06:06:44 ]  https://www.researchgate.net/connectors.ConnectorLoginFailed.html?dbw=true&networkName=Google&errorCode=0
+
+  [ 2020-06-06 06:06:45 ]  https://www.researchgate.net/connectors.ConnectorLoginFailed.html?networkName=Google&errorCode=0
+
+  [ 2020-06-06 06:06:50 ]  http://www.google.com
+
+  [ 2020-06-06 06:06:50 ]  http://www.google.com/
+
+  [ 2020-06-06 06:06:52 ]  https://www.google.com/
+
+  [ 2020-06-06 06:07:28 ]  https://www.google.com/search?source=hp&ei=IeXaXofZB-rH4-EPmKui8AY&q=embedded+systems+pdf&oq=embedded+systems+pdf&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoFCAAQgwE6BQgAELEDOgoIABCxAxBGEPkBUIHdAVinhQJg3YgCaABwAHgAgAHxBogB4C2SAQ0wLjQuOS4zLjEuMS4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjH7fKV-evpAhXq4zgGHZiVCG4Q4dUDCAc&uact=5
+
+  [ 2020-06-06 06:08:33 ]  https://www.google.com/search?ei=RuXaXoigEvic4-EP9ICBqA4&q=coding+ninjas&oq=coding+ninjas&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEM6BwgAELEDEEM6BQgAEIMBOgUIABCRAlCi0QNY9-UDYPjqA2gAcAB4AIABmwSIAeUbkgELMC41LjQuMS4yLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiI28-n-evpAhV4zjgGHXRAAOUQ4dUDCAw&uact=5
+
+  [ 2020-06-06 06:08:36 ]  https://www.codingninjas.com/
+
+  [ 2020-06-06 06:09:46 ]  http://google.com/
+
+  [ 2020-06-06 06:09:47 ]  https://www.google.com/
+
+  [ 2020-06-06 06:09:54 ]  https://mail.google.com/mail/u/0/?ogbl#
+
+  [ 2020-06-06 06:09:57 ]  https://mail.google.com/mail/u/0/?ogbl#inbox
+
+  [ 2020-06-06 06:10:05 ]  https://mail.google.com/mail/u/0/?ogbl#inbox/FMfcgxwHNghCWMGGnKGCLkSTrcMPLLrL
+
+  [ 2020-06-06 06:10:18 ]  https://mail.google.com/mail/u/0/?ogbl#inbox
+
+  [ 2020-06-06 06:10:42 ]  http://www.google.com
+
+  [ 2020-06-06 06:10:42 ]  http://www.google.com/
+
+  [ 2020-06-06 06:10:44 ]  https://www.google.com/
+
+  [ 2020-06-06 06:11:32 ]  https://www.google.com/
+
+  [ 2020-06-06 06:11:41 ]  https://accounts.google.com/Logout?hl=en&continue=https://www.google.com/&timeStmp=1591404090&secTok=.AG5fkS_e8q5_HuzvqMaM5IgiWQlZtzFn9A
+
+  [ 2020-06-06 06:11:41 ]  https://accounts.google.com/Logout
+
+  [ 2020-06-06 06:11:41 ]  https://www.google.com/
+
+  [ 2020-06-06 06:11:44 ]  https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/
+
+  [ 2020-06-06 06:11:47 ]  https://accounts.google.com/ServiceLogin/signinchooser?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+  [ 2020-06-06 06:11:51 ]  https://accounts.google.com/ServiceLogin/signinchooser?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-06 06:11:51 ]  https://accounts.google.com/ServiceLogin/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-06 06:12:06 ]  https://accounts.google.com/ServiceLogin/deniedsigninrejected?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-06 06:12:09 ]  https://accounts.google.com/ServiceLogin/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-06 06:12:16 ]  https://accounts.google.com/ServiceLogin/deniedsigninrejected?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-06 06:12:18 ]  https://accounts.google.com/ServiceLogin/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-06 06:12:41 ]  https://accounts.google.com/signin/v2/challenge/pwd?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward&TL=AM3QAYbtQogd1veXZjrFRjH7_Gfo8qKEoSOqRA6-qarJIiZYZOoSDwWQgEcKZmZt
+
+  [ 2020-06-06 06:12:47 ]  https://accounts.google.com/ServiceLogin/signinchooser?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-06 06:13:21 ]  https://accounts.google.com/ServiceLogin/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=AddSession&TL=AM3QAYbtQogd1veXZjrFRjH7_Gfo8qKEoSOqRA6-qarJIiZYZOoSDwWQgEcKZmZt
+
+  [ 2020-06-06 06:13:24 ]  http://www.google.com
+
+  [ 2020-06-06 06:13:24 ]  http://www.google.com/
+
+  [ 2020-06-06 06:13:25 ]  https://www.google.com/
+
+  [ 2020-06-06 06:24:25 ]  http://google.com/
+
+  [ 2020-06-06 06:24:28 ]  https://www.google.com/
+
+  [ 2020-06-06 06:24:54 ]  https://www.linkedin.com/
+
+  [ 2020-06-06 06:24:58 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-06 06:25:09 ]  https://www.linkedin.com/in/meenakshi-shendye-66553513a/
+
+  [ 2020-06-06 06:25:40 ]  https://www.linkedin.com/school/ramraoadikinstituteoftechnology/about/
+
+  [ 2020-06-06 06:25:51 ]  https://www.linkedin.com/school/ramraoadikinstituteoftechnology/people/
+
+  [ 2020-06-06 14:08:16 ]  http://google.com/
+
+  [ 2020-06-06 14:08:25 ]  https://www.google.com/
+
+  [ 2020-06-06 14:08:50 ]  http://google.com/
+
+  [ 2020-06-06 14:08:52 ]  https://www.google.com/
+
+  [ 2020-06-06 14:09:08 ]  https://www.google.com/search?source=hp&ei=GFbbXqu6LJbdrQHivL-QDw&q=java&oq=java&gs_lcp=CgZwc3ktYWIQAzIFCAAQgwEyBQgAELEDMgIIADIFCAAQsQMyAggAMgIIADIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQgwFQz2hYkWlgnHRoAHAAeACAAc8FiAHPBZIBAzYtMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwirpuvz5OzpAhWWbisKHWLeD_IQ4dUDCAc&uact=5
+
+  [ 2020-06-06 14:09:55 ]  https://www.java.com/en/
+
+  [ 2020-06-06 14:10:01 ]  https://www.google.com/search?source=hp&ei=GFbbXqu6LJbdrQHivL-QDw&q=java&oq=java&gs_lcp=CgZwc3ktYWIQAzIFCAAQgwEyBQgAELEDMgIIADIFCAAQsQMyAggAMgIIADIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQgwFQz2hYkWlgnHRoAHAAeACAAc8FiAHPBZIBAzYtMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwirpuvz5OzpAhWWbisKHWLeD_IQ4dUDCAc&uact=5
+
+  [ 2020-06-06 14:10:09 ]  https://www.google.com/search?ei=KlbbXv7BAZe9rQHiw4iwDA&q=javascript&oq=javascript&gs_lcp=CgZwc3ktYWIQAzIHCAAQsQMQQzIHCAAQsQMQQzIHCAAQsQMQQzIECAAQQzIHCAAQsQMQQzIECAAQQzIHCAAQsQMQQzIFCAAQgwEyBAgAEEMyBwgAELEDEEM6BAgAEEc6BggAEAoQQ1DZIljQLmCdMmgAcAF4AIAB3gKIAYkLkgEHMC4yLjMuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwj-_or85OzpAhWXXisKHeIhAsYQ4dUDCAw&uact=5
+
+  [ 2020-06-06 14:10:12 ]  https://www.w3schools.com/js/
+
+  [ 2020-06-06 14:10:20 ]  http://www.google.com
+
+  [ 2020-06-06 14:10:20 ]  http://www.google.com/
+
+  [ 2020-06-06 14:10:20 ]  https://www.google.com/
+
+  [ 2020-06-06 14:11:33 ]  https://www.w3schools.com/js/
+
+  [ 2020-06-06 14:11:40 ]  https://www.google.com/search?ei=KlbbXv7BAZe9rQHiw4iwDA&q=javascript&oq=javascript&gs_lcp=CgZwc3ktYWIQAzIHCAAQsQMQQzIHCAAQsQMQQzIHCAAQsQMQQzIECAAQQzIHCAAQsQMQQzIECAAQQzIHCAAQsQMQQzIFCAAQgwEyBAgAEEMyBwgAELEDEEM6BAgAEEc6BggAEAoQQ1DZIljQLmCdMmgAcAF4AIAB3gKIAYkLkgEHMC4yLjMuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwj-_or85OzpAhWXXisKHeIhAsYQ4dUDCAw&uact=5
+
+  [ 2020-06-06 14:12:05 ]  https://www.linkedin.com/
+
+  [ 2020-06-06 14:12:08 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-06 14:12:24 ]  https://www.linkedin.com/notifications/
+
+  [ 2020-06-06 14:13:13 ]  http://google.com/
+
+  [ 2020-06-06 14:13:14 ]  https://www.google.com/
+
+  [ 2020-06-06 14:13:31 ]  https://www.google.com/search?source=hp&ei=H1fbXsToMtTerQHxkpyYCw&q=kishore+kumar+song&oq=kishore+kumar+&gs_lcp=CgZwc3ktYWIQAxgAMgUIABCxAzICCAAyAggAMgIIADICCAAyBQgAELEDMgIIADICCAAyAggAMgUIABCxAzoFCAAQgwFQvR9Y8T5g2XxoAHAAeACAAf4CiAHIGJIBBzAuNi42LjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab
+
+  [ 2020-06-06 14:13:37 ]  https://www.youtube.com/watch?v=GSmXU2Q7TU8
+
+  [ 2020-06-06 14:14:54 ]  http://google.com/
+
+  [ 2020-06-06 14:14:57 ]  https://www.google.com/
+
+  [ 2020-06-06 14:15:13 ]  https://www.google.com/search?source=hp&ei=hlfbXvGMMoLb9QOAtqiACg&q=kishore+kumar+song&oq=kishore&gs_lcp=CgZwc3ktYWIQAxgBMgUIABCxAzIFCAAQsQMyAggAMgUIABCxAzICCAAyAggAMgIIADICCAAyAggAMgUIABCxAzoFCAAQgwFQ-h1Y8ytg7UBoAHAAeACAAaUEiAHcEJIBCTItNS4xLjAuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab
+
+  [ 2020-06-06 14:15:19 ]  https://www.youtube.com/watch?v=GSmXU2Q7TU8
+
+  [ 2020-06-06 14:16:16 ]  http://google.com/
+
+  [ 2020-06-06 14:16:18 ]  https://www.google.com/
+
+  [ 2020-06-06 14:16:21 ]  http://google.com/
+
+  [ 2020-06-06 14:16:22 ]  https://www.google.com/
+
+  [ 2020-06-06 14:16:48 ]  https://www.google.com/search?source=hp&ei=21fbXuvTF9L59QPV2pq4CA&q=kishore+kumar+song&oq=kishore&gs_lcp=CgZwc3ktYWIQAxgBMgUIABCxAzIFCAAQsQMyAggAMgUIABCxAzICCAAyAggAMgIIADICCAAyAggAMgUIABCxAzoFCAAQgwFQvhhYmiRguzJoAHAAeACAAacCiAGIDJIBBTAuNC4zmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+  [ 2020-06-06 14:16:52 ]  https://www.youtube.com/watch?v=GSmXU2Q7TU8
+
+  [ 2020-06-06 14:17:35 ]  http://google.com/
+
+  [ 2020-06-06 14:17:37 ]  https://www.google.com/
+
+  [ 2020-06-06 14:17:40 ]  http://google.com/
+
+  [ 2020-06-06 14:17:41 ]  https://www.google.com/
+
+  [ 2020-06-06 14:17:44 ]  http://google.com/
+
+  [ 2020-06-06 14:17:45 ]  https://www.google.com/
+
+  [ 2020-06-06 14:17:55 ]  https://www.google.com/search?source=hp&ei=LljbXs3FNtn39QPSybuQAQ&q=youtube&oq=youtube&gs_lcp=CgZwc3ktYWIQAxgAMgUIABCxAzICCAAyBQgAELEDMgIIADIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAEIMBMgUIABCDAVCCM1iuPWDVSWgAcAB4AIAB2QGIAZAKkgEFMC41LjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab
+
+  [ 2020-06-06 14:17:59 ]  https://www.youtube.com/
+
+  [ 2020-06-06 14:18:07 ]  https://www.youtube.com/watch?v=yqHhcEqQ3Vo&list=RDyqHhcEqQ3Vo&start_radio=1
+
+  [ 2020-06-08 00:05:47 ]  http://google.com/
+
+  [ 2020-06-08 00:05:53 ]  https://www.google.com/
+
+  [ 2020-06-08 00:06:26 ]  https://www.google.com/search?source=hp&ei=iDPdXsDpDpaX4-EPgZe10Ag&q=schools+and+colleges+reopen+in+india&oq=schools+an&gs_lcp=CgZwc3ktYWIQAxgAMgUIABCDATIFCAAQgwEyBQgAEIMBMgUIABCDATIFCAAQgwEyAggAMgIIADIFCAAQgwEyBQgAEIMBMgUIABCDAToFCAAQsQNQ6K0BWLS5AWD4zAFoAHAAeAGAAbAFiAGXEpIBCzAuNi4xLjEuMC4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+  [ 2020-06-08 00:06:40 ]  https://www.indiatvnews.com/education/news-schools-colleges-reopen-across-india-after-august-15-hrd-minister-pokhriyal-624284
+
+  [ 2020-06-08 00:08:10 ]  https://www.google.com/search?source=hp&ei=iDPdXsDpDpaX4-EPgZe10Ag&q=schools+and+colleges+reopen+in+india&oq=schools+an&gs_lcp=CgZwc3ktYWIQAxgAMgUIABCDATIFCAAQgwEyBQgAEIMBMgUIABCDATIFCAAQgwEyAggAMgIIADIFCAAQgwEyBQgAEIMBMgUIABCDAToFCAAQsQNQ6K0BWLS5AWD4zAFoAHAAeAGAAbAFiAGXEpIBCzAuNi4xLjEuMC4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+  [ 2020-06-08 00:08:15 ]  https://www.indiatoday.in/education-today/news/story/schools-will-reopen-after-august-2020-hrd-minister-ramesh-pokhriyal-1686418-2020-06-07
+
+  [ 2020-06-08 00:11:44 ]  https://www.google.com/search?source=hp&ei=iDPdXsDpDpaX4-EPgZe10Ag&q=schools+and+colleges+reopen+in+india&oq=schools+an&gs_lcp=CgZwc3ktYWIQAxgAMgUIABCDATIFCAAQgwEyBQgAEIMBMgUIABCDATIFCAAQgwEyAggAMgIIADIFCAAQgwEyBQgAEIMBMgUIABCDAToFCAAQsQNQ6K0BWLS5AWD4zAFoAHAAeAGAAbAFiAGXEpIBCzAuNi4xLjEuMC4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+  [ 2020-06-08 00:12:00 ]  https://www.india.com/news/india/schools-reopening-news-schools-colleges-and-other-educational-institutions-will-reopen-across-india-from-this-date-hrd-minister-reveals-4051410/
+
+  [ 2020-06-08 00:13:58 ]  https://www.google.com/search?source=hp&ei=iDPdXsDpDpaX4-EPgZe10Ag&q=schools+and+colleges+reopen+in+india&oq=schools+an&gs_lcp=CgZwc3ktYWIQAxgAMgUIABCDATIFCAAQgwEyBQgAEIMBMgUIABCDATIFCAAQgwEyAggAMgIIADIFCAAQgwEyBQgAEIMBMgUIABCDAToFCAAQsQNQ6K0BWLS5AWD4zAFoAHAAeAGAAbAFiAGXEpIBCzAuNi4xLjEuMC4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+  [ 2020-06-08 00:14:06 ]  https://www.google.com/search?ei=qjPdXu_HJLSY4-EPwaWR4A0&q=youtube&oq=youtube&gs_lcp=CgZwc3ktYWIQAzIICAAQsQMQkQIyBAgAEEMyBAgAEEMyBAgAEEMyBQgAELEDMgUIABCxAzIFCAAQgwEyBQgAELEDMgUIABCxAzIFCAAQgwE6AggAOgcIABCxAxBDUI4kWNYuYJMyaABwAHgAgAHaA4gB_AySAQkwLjQuMi4wLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjvxPesrPDpAhU0zDgGHcFSBNwQ4dUDCAw&uact=5
+
+  [ 2020-06-08 00:14:11 ]  https://www.youtube.com/
+
+  [ 2020-06-08 00:14:16 ]  https://www.youtube.com/watch?v=yqHhcEqQ3Vo&list=RDyqHhcEqQ3Vo&start_radio=1
+
+  [ 2020-06-08 00:17:00 ]  https://www.youtube.com/watch?v=RHXdA-ZkEsw&list=RDyqHhcEqQ3Vo&index=2
+
+  [ 2020-06-08 00:19:45 ]  https://www.youtube.com/results?search_query=hayley+kioko
+
+  [ 2020-06-08 00:20:31 ]  https://www.youtube.com/watch?v=YXTzMOmmEfE
+
+  [ 2020-06-08 00:24:32 ]  https://www.youtube.com/results?search_query=hayley+kioko
+
+  [ 2020-06-08 00:24:36 ]  https://www.youtube.com/watch?v=XOm2rGwmhWg
+
+  [ 2020-06-08 00:24:53 ]  https://www.youtube.com/
+
+  [ 2020-06-08 00:25:07 ]  https://youtube.com/
+
+  [ 2020-06-08 00:25:07 ]  https://www.youtube.com/
+
+  [ 2020-06-08 00:25:11 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 00:25:13 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 00:25:21 ]  https://www.linkedin.com/notifications/
+
+  [ 2020-06-08 00:25:26 ]  https://www.linkedin.com/feed/update/urn:li:activity:6674670305400770560/
+
+  [ 2020-06-08 00:25:46 ]  https://www.google.com/
+
+  [ 2020-06-08 00:25:56 ]  https://www.google.com/search?source=hp&ei=MjjdXu3MIfvCz7sP2MaRkAE&q=hello+world&oq=hello+world&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BQgAEIMBOgcIABCxAxAKUIkrWPVBYJ5HaABwAHgAgAGNA4gB-xKSAQcwLjUuNS4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjtrYXWsPDpAhV74XMBHVhjBBIQ4dUDCAc&uact=5
+
+  [ 2020-06-08 00:26:21 ]  https://www.linkedin.com/in/geetanjali-aich/
+
+  [ 2020-06-08 00:29:25 ]  http://google.com/
+
+  [ 2020-06-08 00:29:29 ]  https://www.google.com/
+
+  [ 2020-06-08 00:29:35 ]  https://www.google.com/search?source=hp&ei=ETndXrjaJ8mc4-EPl9mi2AY&q=b-ok.cc&oq=b-ok.cc&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyBAgAEAoyBAgAEAoyAggAOgUIABCxAzoFCAAQgwFQ3RZY5CZgwydoAHAAeACAAfkCiAGiC5IBBzAuMi4zLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwj4prbAsfDpAhVJzjgGHZesCGsQ4dUDCAc&uact=5
+
+  [ 2020-06-08 00:29:42 ]  https://b-ok.asia/categories?regionChanged
+
+  [ 2020-06-08 00:30:02 ]  https://www.google.com/search?source=hp&ei=ETndXrjaJ8mc4-EPl9mi2AY&q=b-ok.cc&oq=b-ok.cc&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyBAgAEAoyBAgAEAoyAggAOgUIABCxAzoFCAAQgwFQ3RZY5CZgwydoAHAAeACAAfkCiAGiC5IBBzAuMi4zLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwj4prbAsfDpAhVJzjgGHZesCGsQ4dUDCAc&uact=5
+
+  [ 2020-06-08 00:30:03 ]  https://www.google.com/
+
+  [ 2020-06-08 00:31:10 ]  http://google.com/
+
+  [ 2020-06-08 00:31:11 ]  https://www.google.com/
+
+  [ 2020-06-08 00:34:57 ]  http://google.com/
+
+  [ 2020-06-08 00:35:01 ]  https://www.google.com/
+
+  [ 2020-06-08 00:35:30 ]  https://www.google.com/search?source=hp&ei=XTrdXtrkA7-J4-EP6Ke4qAs&q=books+on+embedded+systems&oq=books+on+embedded+&gs_lcp=CgZwc3ktYWIQAxgAMgIIADICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoFCAAQgwE6BQgAELEDOhEIABDqAhC0AhCaARDlAhCLA1DzM1iIuwFgqcQBaAlwAHgAgAHhA4gBoTOSAQowLjkuMTMuMy4ymAEAoAEBqgEHZ3dzLXdperABBrgBAg&sclient=psy-ab
+
+  [ 2020-06-08 00:35:36 ]  https://www.google.com/search?ei=ejrdXsGIHsSb4-EPqbCT0A4&q=books+on+embedded+systems+pdf&oq=books+on+embedded+systems+pdf&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB46BAgAEEdQyhFYyhlggx5oAHABeACAAeQCiAHvB5IBBTItMy4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjBrb7ssvDpAhXEzTgGHSnYBOoQ4dUDCAw&uact=5
+
+  [ 2020-06-08 00:41:45 ]  https://www.google.com/search?ei=fzrdXqfbOIWc4-EPi_ak0Ag&q=pdf+notes+on+gps&oq=pdf+notes+on+gps&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgUIABCRAjoFCAAQsQM6AggAOgUIABCDAToECAAQQzoHCAAQsQMQQ1ClohZY9rgWYPu6FmgAcAB4AIABlgSIAe4ekgELMC45LjQuMC4yLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjnlorvsvDpAhUFzjgGHQs7CYoQ4dUDCAw&uact=5
+
+  [ 2020-06-08 00:43:46 ]  http://www.google.com
+
+  [ 2020-06-08 00:43:46 ]  http://www.google.com/
+
+  [ 2020-06-08 00:43:46 ]  https://www.google.com/
+
+  [ 2020-06-08 00:47:56 ]  http://google.com/
+
+  [ 2020-06-08 00:47:59 ]  https://www.google.com/
+
+  [ 2020-06-08 00:51:19 ]  http://google.com/
+
+  [ 2020-06-08 00:51:21 ]  https://www.google.com/
+
+  [ 2020-06-08 00:51:32 ]  http:www.google.com
+
+  [ 2020-06-08 00:51:32 ]  http://www.google.com/
+
+  [ 2020-06-08 00:51:33 ]  https://www.google.com/
+
+  [ 2020-06-08 00:51:44 ]  http:www.b-ok.cc
+
+  [ 2020-06-08 00:51:44 ]  http://www.b-ok.cc/
+
+  [ 2020-06-08 00:51:49 ]  https://b-ok.asia/?regionChanged
+
+  [ 2020-06-08 00:51:58 ]  http://google.com/
+
+  [ 2020-06-08 00:51:59 ]  https://www.google.com/
+
+  [ 2020-06-08 00:52:06 ]  http:www.youtube.com
+
+  [ 2020-06-08 00:52:06 ]  http://www.youtube.com/
+
+  [ 2020-06-08 00:52:09 ]  https://www.youtube.com/
+
+  [ 2020-06-08 00:52:28 ]  https://youtube.com/
+
+  [ 2020-06-08 00:52:28 ]  https://www.youtube.com/
+
+  [ 2020-06-08 00:52:39 ]  https://www.youtube.com/watch?v=5tvUobbVJJI
+
+  [ 2020-06-08 00:52:52 ]  http://google.com/
+
+  [ 2020-06-08 00:52:54 ]  https://www.google.com/
+
+  [ 2020-06-08 00:52:58 ]  http://google.com/
+
+  [ 2020-06-08 00:52:59 ]  https://www.google.com/
+
+  [ 2020-06-08 00:53:05 ]  https://www.google.com/search?source=hp&ei=kz7dXtuiBMnXz7sPje67kA4&q=afdg&oq=afdg&gs_lcp=CgZwc3ktYWIQAzICCAAyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAoyBAgAEAo6BQgAEIMBOgUIABCxA1DnH1iTImDgJmgAcAB4AIABzgGIAYUGkgEFMC4zLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwibuL7gtvDpAhXJ63MBHQ33DuIQ4dUDCAc&uact=5
+
+  [ 2020-06-08 00:53:14 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 00:53:18 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 00:53:29 ]  https://www.researchgate.net/
+
+  [ 2020-06-08 00:53:54 ]  http://google.com/
+
+  [ 2020-06-08 00:53:56 ]  https://www.google.com/
+
+  [ 2020-06-08 00:54:11 ]  http:www.github.com
+
+  [ 2020-06-08 00:54:11 ]  http://www.github.com/
+
+  [ 2020-06-08 00:54:14 ]  https://github.com/
+
+  [ 2020-06-08 00:57:51 ]  http://google.com/
+
+  [ 2020-06-08 00:57:54 ]  https://www.google.com/
+
+  [ 2020-06-08 00:57:58 ]  http://google.com/
+
+  [ 2020-06-08 00:57:59 ]  https://www.google.com/
+
+  [ 2020-06-08 00:58:07 ]  http://google.com/
+
+  [ 2020-06-08 00:58:08 ]  https://www.google.com/
+
+  [ 2020-06-08 00:58:14 ]  https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/
+
+  [ 2020-06-08 00:58:16 ]  https://accounts.google.com/signin/v2/identifier?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+  [ 2020-06-08 00:58:32 ]  https://accounts.google.com/signin/v2/challenge/pwd?hl=en&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward&TL=AM3QAYaYuGWZsnkzv_4esCnqdKjHL0gztd7UEK9rqnS9M96ZOxehSJMp03tenprG
+
+  [ 2020-06-08 00:58:43 ]  https://www.google.com/
+
+  [ 2020-06-08 00:58:51 ]  https://mail.google.com/mail/u/0/?tab=wm&ogbl&pli=1#
+
+  [ 2020-06-08 00:58:54 ]  https://mail.google.com/mail/u/0/?tab=wm&ogbl&pli=1#inbox
+
+  [ 2020-06-08 01:01:30 ]  http://google.com/
+
+  [ 2020-06-08 01:01:34 ]  https://www.google.com/
+
+  [ 2020-06-08 01:01:39 ]  https://www.google.com/search?source=hp&ei=lUDdXrLFN5yd4-EP2KWLsAM&q=youtube&oq=youtube&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgUIABCxAzICCAAyBQgAELEDMgUIABCDATIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQgwFQxw9Y7Bpg_R9oAHAAeACAAbQCiAHsC5IBBzAuNC4yLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjy4_3VuPDpAhWczjgGHdjSAjYQ4dUDCAc&uact=5
+
+  [ 2020-06-08 01:01:44 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:02:54 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:03:35 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:09:58 ]  http://google.com/
+
+  [ 2020-06-08 01:10:00 ]  https://www.google.com/
+
+  [ 2020-06-08 01:10:09 ]  https://www.google.com/search?source=hp&ei=kELdXtn6Jt7B3LUPh5Wy-Ag&q=youtube&oq=youtube&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgUIABCxAzICCAAyBQgAELEDMgUIABCDATIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQgwFQ_xBY2SFg6CloAHAAeACAAZQCiAGmDJIBBTAuMi41mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjZgs7HuvDpAhXeILcAHYeKDI8Q4dUDCAc&uact=5
+
+  [ 2020-06-08 01:10:14 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:10:48 ]  http://google.com/
+
+  [ 2020-06-08 01:10:50 ]  https://www.google.com/
+
+  [ 2020-06-08 01:10:52 ]  http://google.com/
+
+  [ 2020-06-08 01:10:52 ]  https://www.google.com/
+
+  [ 2020-06-08 01:11:41 ]  http://google.com/
+
+  [ 2020-06-08 01:11:45 ]  https://www.google.com/
+
+  [ 2020-06-08 01:12:26 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 01:12:28 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 01:12:48 ]  https://www.linkedin.com/notifications/
+
+  [ 2020-06-08 01:12:56 ]  https://www.researchgate.net/
+
+  [ 2020-06-08 01:13:06 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:13:31 ]  https://www.google.com/
+
+  [ 2020-06-08 01:13:36 ]  https://www.google.com/
+
+  [ 2020-06-08 01:13:41 ]  https://www.google.com/
+
+  [ 2020-06-08 01:13:52 ]  https://mail.google.com/mail/u/0/?tab=wm&ogbl
+
+  [ 2020-06-08 01:13:55 ]  https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox
+
+  [ 2020-06-08 01:14:06 ]  https://accounts.google.com/Logout?hl=en&continue=https://mail.google.com/mail&service=mail&timeStmp=1591559033&secTok=.AG5fkS8eYTqroQScDFuivDrNE2WQsVF0Dw
+
+  [ 2020-06-08 01:14:06 ]  https://accounts.google.com/Logout
+
+  [ 2020-06-08 01:14:07 ]  https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#
+
+  [ 2020-06-08 01:14:09 ]  https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+  [ 2020-06-08 01:14:16 ]  https://www.google.com/
+
+  [ 2020-06-08 01:14:22 ]  https://www.google.com/search?source=hp&ei=kEPdXovKDfDC3LUPtbu0KA&q=youtube&oq=youtub&gs_lcp=CgZwc3ktYWIQAxgAMgUIABCxAzICCAAyBQgAELEDMgIIADIFCAAQsQMyBQgAEIMBMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCDAVCUE1iDHmCKKGgAcAB4AIABvQGIAbwIkgEDMC42mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+  [ 2020-06-08 01:14:25 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:14:46 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:14:58 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:15:06 ]  https://youtube.com/
+
+  [ 2020-06-08 01:15:07 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:15:10 ]  https://google.com/
+
+  [ 2020-06-08 01:15:12 ]  https://www.google.com/
+
+  [ 2020-06-08 01:15:54 ]  https://www.google.com/
+
+  [ 2020-06-08 01:16:39 ]  https://www.google.com/
+
+  [ 2020-06-08 01:16:50 ]  http:www.youtube.com
+
+  [ 2020-06-08 01:16:50 ]  http://www.youtube.com/
+
+  [ 2020-06-08 01:16:51 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:17:00 ]  https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en-GB&ec=65620
+
+  [ 2020-06-08 01:17:03 ]  https://accounts.google.com/ServiceLogin/signinchooser?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en-GB&ec=65620&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+  [ 2020-06-08 01:17:13 ]  https://accounts.google.com/ServiceLogin/signinchooser?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en-GB&ec=65620&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-08 01:17:14 ]  https://accounts.google.com/signin/v2/challenge/pwd?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en-GB&ec=65620&flowName=GlifWebSignIn&flowEntry=AddSession&cid=1&navigationDirection=forward&TL=AM3QAYbziUAeRamnzUulZhjYT3xL6JgymRGADD9X_Y4oCEnQf5X_X3czrAa4pRlH
+
+  [ 2020-06-08 01:17:21 ]  https://accounts.google.com/ServiceLogin/signinchooser?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en-GB&ec=65620&flowName=GlifWebSignIn&flowEntry=AddSession
+
+  [ 2020-06-08 01:17:22 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:17:50 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:17:53 ]  https://www.youtube.com/watch?v=yqHhcEqQ3Vo&list=RDyqHhcEqQ3Vo&start_radio=1
+
+  [ 2020-06-08 01:18:00 ]  https://youtube.com/
+
+  [ 2020-06-08 01:18:00 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:18:09 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:18:13 ]  https://www.youtube.com/watch?v=W6jxPFtIAnw
+
+  [ 2020-06-08 01:18:32 ]  https://youtube.com/
+
+  [ 2020-06-08 01:18:32 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:18:39 ]  https://www.researchgate.net/
+
+  [ 2020-06-08 01:18:45 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 01:18:47 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 01:18:59 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:19:05 ]  https://www.youtube.com/watch?v=YXTzMOmmEfE&list=RDYXTzMOmmEfE&start_radio=1
+
+  [ 2020-06-08 01:20:27 ]  https://linkedin.com/
+
+  [ 2020-06-08 01:20:28 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 01:20:30 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 01:20:42 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:20:47 ]  https://www.youtube.com/watch?v=TrCx-pYiapQ
+
+  [ 2020-06-08 01:23:42 ]  https://www.youtube.com/watch?v=YynKelHGhNc
+
+  [ 2020-06-08 01:26:38 ]  https://www.youtube.com/watch?v=7ZfCUM1uyvw
+
+  [ 2020-06-08 01:31:27 ]  https://www.youtube.com/watch?v=TV-_Yuc228s
+
+  [ 2020-06-08 01:31:34 ]  https://www.youtube.com/watch?v=I0MT8SwNa_U
+
+  [ 2020-06-08 01:34:34 ]  https://youtube.com/
+
+  [ 2020-06-08 01:34:35 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:34:54 ]  http://google.com/
+
+  [ 2020-06-08 01:34:55 ]  https://www.google.com/
+
+  [ 2020-06-08 01:35:08 ]  http:b-ok.cc
+
+  [ 2020-06-08 01:35:08 ]  http://b-ok.cc/
+
+  [ 2020-06-08 01:35:12 ]  https://b-ok.asia/?regionChanged
+
+  [ 2020-06-08 01:35:27 ]  https://b-ok.asia/book/3408539/b1502b?dsource=mostpopular
+
+  [ 2020-06-08 01:36:25 ]  https://b-ok.asia/?regionChanged
+
+  [ 2020-06-08 01:36:28 ]  https://b-ok.asia/book/440804/58b367?dsource=mostpopular
+
+  [ 2020-06-08 01:36:44 ]  https://b-ok.asia/?regionChanged
+
+  [ 2020-06-08 01:36:47 ]  https://b-ok.asia/book/3408539/b1502b?dsource=mostpopular
+
+  [ 2020-06-08 01:36:50 ]  https://b-ok.asia/book/554686/c08ec0?dsource=recommend
+
+  [ 2020-06-08 01:41:13 ]  https://www.google.com/
+
+  [ 2020-06-08 01:41:23 ]  http:www.yoututbe.com
+
+  [ 2020-06-08 01:41:23 ]  http://www.yoututbe.com/
+
+  [ 2020-06-08 01:41:23 ]  https://www.google.com/
+
+  [ 2020-06-08 01:41:24 ]  http://www.yoututbe.com/
+
+  [ 2020-06-08 01:41:36 ]  http:www.youtube.com
+
+  [ 2020-06-08 01:41:36 ]  http://www.youtube.com/
+
+  [ 2020-06-08 01:41:37 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:41:46 ]  https://www.youtube.com/watch?v=7YaV6CvwJ-g
+
+  [ 2020-06-08 01:45:34 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:45:38 ]  https://youtube.com/
+
+  [ 2020-06-08 01:45:38 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:45:43 ]  https://www.google.com/
+
+  [ 2020-06-08 01:45:49 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:45:51 ]  https://www.youtube.com/watch?v=u33g0vlGaPM
+
+  [ 2020-06-08 01:46:17 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:46:30 ]  https://www.youtube.com/watch?v=DgquhFV9LsU
+
+  [ 2020-06-08 01:47:20 ]  https://youtube.com/
+
+  [ 2020-06-08 01:47:20 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:47:32 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:47:36 ]  https://www.youtube.com/watch?v=0z2whjwLXZE
+
+  [ 2020-06-08 01:47:41 ]  https://www.youtube.com/watch?v=kBQB3H64HYA
+
+  [ 2020-06-08 01:48:35 ]  https://www.youtube.com/watch?v=YXTzMOmmEfE
+
+  [ 2020-06-08 01:50:27 ]  https://www.youtube.com/watch?v=T2sO8gK2IKk
+
+  [ 2020-06-08 01:51:43 ]  https://youtube.com/
+
+  [ 2020-06-08 01:51:43 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:51:46 ]  http://google.com/
+
+  [ 2020-06-08 01:52:40 ]  http://google.com/
+
+  [ 2020-06-08 01:52:44 ]  https://www.google.com/
+
+  [ 2020-06-08 01:52:57 ]  https://www.google.com/search?source=hp&ei=lEzdXuqpM7-c4-EPq5Ow6A8&q=gps+slideshare&oq=gps+slideshare&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BQgAEIMBOgUIABCxAzoECAAQClDdKljCSWC5UGgAcAB4AIABnQKIAZgXkgEFMC41LjmYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjqw6iOxPDpAhU_zjgGHasJDP0Q4dUDCAc&uact=5
+
+  [ 2020-06-08 01:53:02 ]  https://www.slideshare.net/himanshuagrawal545/global-positioning-system-38741064
+
+  [ 2020-06-08 01:53:12 ]  https://www.google.com/search?source=hp&ei=lEzdXuqpM7-c4-EPq5Ow6A8&q=gps+slideshare&oq=gps+slideshare&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BQgAEIMBOgUIABCxAzoECAAQClDdKljCSWC5UGgAcAB4AIABnQKIAZgXkgEFMC41LjmYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjqw6iOxPDpAhU_zjgGHasJDP0Q4dUDCAc&uact=5
+
+  [ 2020-06-08 01:53:15 ]  https://www.slideshare.net/himanshuagrawal545/global-positioning-system-38741064
+
+  [ 2020-06-08 01:54:11 ]  https://www.youtube.com/
+
+  [ 2020-06-08 01:54:21 ]  https://www.youtube.com/watch?v=2bTFjMDD5ss
+
+  [ 2020-06-08 01:55:04 ]  https://www.youtube.com/watch?v=BXQ6QNLcJL8
+
+  [ 2020-06-08 01:57:53 ]  https://www.youtube.com/watch?v=7YaV6CvwJ-g
+
+  [ 2020-06-08 01:59:01 ]  https://youtube.com/
+
+  [ 2020-06-08 01:59:02 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:01:28 ]  http://google.com/
+
+  [ 2020-06-08 02:01:31 ]  https://www.google.com/
+
+  [ 2020-06-08 02:01:56 ]  https://www.youtube.com/watch?v=acYpxd17eIc
+
+  [ 2020-06-08 02:02:45 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:02:50 ]  https://www.youtube.com/watch?v=acYpxd17eIc
+
+  [ 2020-06-08 02:07:00 ]  https://www.youtube.com/watch?v=HymEA1fGm1o
+
+  [ 2020-06-08 02:11:11 ]  https://www.youtube.com/watch?v=9E5LQ_iAVow
+
+  [ 2020-06-08 02:15:21 ]  https://www.youtube.com/channel/UCYRBgpSXmlFRSB8MSvMu8Zw
+
+  [ 2020-06-08 02:15:49 ]  https://www.youtube.com/watch?v=vU9BqUXfLzE
+
+  [ 2020-06-08 02:16:22 ]  https://www.youtube.com/channel/UCYRBgpSXmlFRSB8MSvMu8Zw
+
+  [ 2020-06-08 02:16:24 ]  https://www.youtube.com/watch?v=7YaV6CvwJ-g
+
+  [ 2020-06-08 02:20:38 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:20:52 ]  https://www.youtube.com/results?search_query=let+him+go+hollie+col
+
+  [ 2020-06-08 02:20:55 ]  https://www.youtube.com/watch?v=7YaV6CvwJ-g
+
+  [ 2020-06-08 02:21:09 ]  https://youtube.com/
+
+  [ 2020-06-08 02:21:10 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:21:23 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:21:35 ]  https://www.youtube.com/results?search_query=hollie+col+let+yourself+down
+
+  [ 2020-06-08 02:21:38 ]  https://www.youtube.com/watch?v=7YaV6CvwJ-g
+
+  [ 2020-06-08 02:21:55 ]  https://youtube.com/
+
+  [ 2020-06-08 02:21:55 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:21:57 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:23:22 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:23:35 ]  https://www.youtube.com/watch?v=8qGFAkyfjDU
+
+  [ 2020-06-08 02:23:56 ]  https://google.com
+
+  [ 2020-06-08 02:23:56 ]  https://google.com/
+
+  [ 2020-06-08 02:23:57 ]  https://www.google.com/
+
+  [ 2020-06-08 02:24:03 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:24:13 ]  https://www.youtube.com/watch?v=ZxXaia2tJy0
+
+  [ 2020-06-08 02:24:16 ]  https://www.youtube.com/watch?v=8wPH87NnQ8U
+
+  [ 2020-06-08 02:24:23 ]  https://google.com
+
+  [ 2020-06-08 02:24:23 ]  https://google.com/
+
+  [ 2020-06-08 02:24:24 ]  https://www.google.com/
+
+  [ 2020-06-08 02:24:26 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:24:31 ]  https://www.youtube.com/watch?v=yqHhcEqQ3Vo&list=RDyqHhcEqQ3Vo&start_radio=1
+
+  [ 2020-06-08 02:24:33 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:24:39 ]  https://www.youtube.com/watch?v=yqHhcEqQ3Vo&list=RDyqHhcEqQ3Vo&start_radio=1
+
+  [ 2020-06-08 02:24:45 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:25:46 ]  https://www.youtube.com/watch?v=7YaV6CvwJ-g&list=RD7YaV6CvwJ-g&start_radio=1
+
+  [ 2020-06-08 02:26:18 ]  https://www.researchgate.net/
+
+  [ 2020-06-08 02:26:36 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 02:26:39 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 02:28:26 ]  https://www.google.com/
+
+  [ 2020-06-08 02:28:36 ]  https://ieeexplore.ieee.org/Xplore/home.jsp
+
+  [ 2020-06-08 02:28:38 ]  https://www.youtube.com/watch?v=XOm2rGwmhWg
+
+  [ 2020-06-08 02:30:06 ]  https://google.com
+
+  [ 2020-06-08 02:30:06 ]  https://google.com/
+
+  [ 2020-06-08 02:30:07 ]  https://www.google.com/
+
+  [ 2020-06-08 02:30:31 ]  https://www.google.com/
+
+  [ 2020-06-08 02:30:34 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 02:30:38 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 02:30:51 ]  https://www.researchgate.net/
+
+  [ 2020-06-08 02:31:03 ]  https://www.google.com/
+
+  [ 2020-06-08 02:31:08 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:31:16 ]  https://www.youtube.com/watch?v=7YaV6CvwJ-g&list=RD7YaV6CvwJ-g&start_radio=1
+
+  [ 2020-06-08 02:31:29 ]  https://www.youtube.com/watch?v=RiOaVD0lMWE
+
+  [ 2020-06-08 02:34:29 ]  https://google.com
+
+  [ 2020-06-08 02:34:29 ]  https://google.com/
+
+  [ 2020-06-08 02:34:30 ]  https://www.google.com/
+
+  [ 2020-06-08 02:35:47 ]  https://www.google.com/
+
+  [ 2020-06-08 02:35:53 ]  https://www.google.com/search?source=hp&ei=q1bdXpmrJK6R4-EPobSJoAg&q=youtube&oq=youtube&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgUIABCxAzICCAAyBQgAELEDMgUIABCDATIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQgwFQvA1YghVgqhxoAHAAeACAAdECiAGxDJIBBzAuNC4yLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjZrO_dzfDpAhWuyDgGHSFaAoQQ4dUDCAc&uact=5
+
+  [ 2020-06-08 02:36:23 ]  https://www.google.com/
+
+  [ 2020-06-08 02:36:34 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 02:36:36 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 02:36:44 ]  https://www.researchgate.net/
+
+  [ 2020-06-08 02:36:58 ]  http://google.com/
+
+  [ 2020-06-08 02:36:59 ]  https://www.google.com/
+
+  [ 2020-06-08 02:37:06 ]  https://www.google.com/search?source=hp&ei=81bdXomYDcya4-EPw4i8sAg&q=youtube&oq=youtube&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMgUIABCxAzICCAAyBQgAELEDMgUIABCDATIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQgwFQ2x9Y4SdgsSpoAHAAeACAAeEBiAGnCpIBBTAuNS4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjJ3YKAzvDpAhVMzTgGHUMED4YQ4dUDCAc&uact=5
+
+  [ 2020-06-08 02:37:22 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:37:43 ]  https://google.com
+
+  [ 2020-06-08 02:37:43 ]  https://google.com/
+
+  [ 2020-06-08 02:37:43 ]  https://www.google.com/
+
+  [ 2020-06-08 02:37:53 ]  http://google.com/
+
+  [ 2020-06-08 02:37:56 ]  https://www.google.com/
+
+  [ 2020-06-08 02:38:01 ]  https://www.google.com/search?source=hp&ei=K1fdXu-4B8qY4-EPjc-F-A0&q=whatsapp+web&oq=whatsapp+web&gs_lcp=CgZwc3ktYWIQAzICCAAyBQgAELEDMgUIABCxAzIFCAAQgwEyBQgAELEDMgUIABCDATICCAAyBQgAEIMBMgUIABCxAzICCABQzgdYqx5gyCBoAHAAeACAAYgCiAH5EJIBBTAuNy40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiv-taazvDpAhVKzDgGHY1nAd8Q4dUDCAc&uact=5
+
+  [ 2020-06-08 02:38:04 ]  https://web.whatsapp.com/
+
+  [ 2020-06-08 02:38:18 ]  https://www.google.com/search?source=hp&ei=K1fdXu-4B8qY4-EPjc-F-A0&q=whatsapp+web&oq=whatsapp+web&gs_lcp=CgZwc3ktYWIQAzICCAAyBQgAELEDMgUIABCxAzIFCAAQgwEyBQgAELEDMgUIABCDATICCAAyBQgAEIMBMgUIABCxAzICCABQzgdYqx5gyCBoAHAAeACAAYgCiAH5EJIBBTAuNy40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiv-taazvDpAhVKzDgGHY1nAd8Q4dUDCAc&uact=5
+
+  [ 2020-06-08 02:38:29 ]  https://indianexpress.com/article/technology/social/whatsapp-web-dark-mode-how-to-enable-6414496/
+
+  [ 2020-06-08 02:43:40 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:43:45 ]  https://www.youtube.com/watch?v=yqHhcEqQ3Vo&list=RDyqHhcEqQ3Vo&start_radio=1
+
+  [ 2020-06-08 02:44:21 ]  https://google.com
+
+  [ 2020-06-08 02:44:21 ]  https://google.com/
+
+  [ 2020-06-08 02:44:21 ]  https://www.google.com/
+
+  [ 2020-06-08 02:44:34 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:46:06 ]  https://www.linkedin.com/
+
+  [ 2020-06-08 02:46:08 ]  https://www.linkedin.com/feed/
+
+  [ 2020-06-08 02:49:36 ]  https://www.linkedin.com/in/cynthia-halder-1a611a71/
+
+  [ 2020-06-08 02:49:51 ]  https://google.com
+
+  [ 2020-06-08 02:49:51 ]  https://google.com/
+
+  [ 2020-06-08 02:49:52 ]  https://www.google.com/
+
+  [ 2020-06-08 02:58:22 ]  https://www.youtube.com/
+
+  [ 2020-06-08 02:59:06 ]  https://www.youtube.com/
+
+  [ 2020-06-08 03:00:00 ]  https://www.youtube.com/
+
+  [ 2020-06-08 03:00:06 ]  https://google.com
+
+  [ 2020-06-08 03:00:06 ]  https://google.com/
+
+  [ 2020-06-08 03:00:07 ]  https://www.google.com/
+
+  [ 2020-06-08 03:00:09 ]  https://www.youtube.com/
+
+  [ 2020-06-08 03:01:21 ]  https://www.youtube.com/
+
+  [ 2020-06-08 03:02:00 ]  https://www.youtube.com/results?search_query=camilla
+
+  [ 2020-06-08 03:02:05 ]  https://www.youtube.com/watch?v=Pkh8UtuejGw
+
+  [ 2020-06-08 03:05:19 ]  http://google.com/
+
+  [ 2020-06-08 03:05:20 ]  https://www.google.com/
+
+  [ 2020-06-08 03:05:25 ]  https://google.com
+
+  [ 2020-06-08 03:05:26 ]  https://google.com/
+
+  [ 2020-06-08 03:05:27 ]  https://www.google.com/
+
+  [ 2020-06-08 03:05:33 ]  https://www.google.com/search?source=hp&ei=l13dXqiIMLqW4-EPk7aggAY&q=netflix&oq=netflix&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQM6EQgAEOoCELQCEJoBEOUCEIsDOgIIADoFCAAQgwFQ0UtYp1lgvltoAXAAeACAAZoDiAGPDZIBCTAuMi40LjAuMZgBAKABAaoBB2d3cy13aXqwAQa4AQI&sclient=psy-ab&ved=0ahUKEwjor_Wq1PDpAhU6yzgGHRMbCGAQ4dUDCAc&uact=5
+
+  [ 2020-06-08 03:05:39 ]  https://www.netflix.com/in/
+
+  [ 2020-06-08 03:05:44 ]  https://www.netflix.com/in/login
+
+  [ 2020-06-08 03:07:42 ]  http://google.com/
+
+  [ 2020-06-08 03:07:43 ]  https://www.google.com/
+
+  [ 2020-06-08 03:07:50 ]  https://www.google.com/search?source=hp&ei=Jl7dXvCzN4WN4-EPjoupCA&q=amazon+prime+video&oq=amazon&gs_lcp=CgZwc3ktYWIQAxgCMgUIABCDATIFCAAQsQMyAggAMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCDATIFCAAQgwEyBQgAEIMBMgIIAFCVEVj0GmCmLmgAcAB4AYABowWIAf8PkgEJMC4zLjQtMi4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+  [ 2020-06-08 03:07:57 ]  https://www.primevideo.com/
+
+  [ 2020-06-08 03:08:04 ]  https://www.amazon.com/ap/signin?accountStatusPolicy=P1&clientContext=259-7713578-9866052&language=en_US&openid.assoc_handle=amzn_prime_video_desktop_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.primevideo.com%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_encoding%3DUTF8%26location%3D%252Fref%253Ddv_auth_ret
+
+  [ 2020-06-08 03:08:19 ]  https://www.amazon.com/ap/signin/130-9197065-9054615
+
+  [ 2020-06-08 03:08:55 ]  https://www.primevideo.com/ref=av_auth_return_redir
+
+  [ 2020-06-08 03:09:03 ]  https://www.primevideo.com/storefront/ref=atv_pr_sw_sc?_encoding=UTF8&switchSuccess=1
+
+  [ 2020-06-08 03:09:05 ]  https://www.primevideo.com/storefront/ref=atv_pr_sw_sc?_encoding=UTF8
+
+  [ 2020-06-08 03:09:18 ]  https://www.primevideo.com/detail/0HG4U1J3UNT1TY6V7J5LOUYXXV/ref=atv_hm_hom_c_8pZiqd_2_1
+
+  [ 2020-06-08 03:28:44 ]  https://www.youtube.com/
+
+  [ 2020-06-08 03:28:50 ]  https://www.youtube.com/watch?v=7YaV6CvwJ-g&list=RD7YaV6CvwJ-g&start_radio=1
+
+  [ 2020-06-08 03:29:15 ]  https://www.youtube.com/results?search_query=cheap+thrills
+
+  [ 2020-06-08 03:29:21 ]  https://www.youtube.com/watch?v=nYh-n7EOtMA
+
+  [ 2020-06-08 03:30:53 ]  https://www.youtube.com/watch?v=papuvlVeZg8
+
+  [ 2020-06-08 03:35:09 ]  https://www.youtube.com/watch?v=5GL9JoH4Sws
+
+  [ 2020-06-08 03:38:52 ]  https://www.youtube.com/watch?v=BQ0mxQXmLsk
+
+  [ 2020-06-08 03:45:51 ]  https://www.youtube.com/watch?v=oygrmJFKYZY
+
+  [ 2020-06-08 03:49:19 ]  https://www.youtube.com/watch?v=k2qgadSvNyU
+
+  [ 2020-06-08 03:51:35 ]  https://www.youtube.com/watch?v=QYh6mYIJG2Y
+
+  [ 2020-06-08 03:51:43 ]  http://google.com/
+
+  [ 2020-06-08 03:51:44 ]  https://www.google.com/
+
+  [ 2020-06-08 03:51:48 ]  https://www.google.com/search?source=hp&ei=eGjdXqKpJJef4-EPu526iAo&q=canva&oq=canva&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCDATICCAAyAggAMgIIADIFCAAQsQNQpwNY9wxg8w5oAHAAeACAAZUCiAG0CJIBBTAuMy4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiixeja3vDpAhWXzzgGHbuODqEQ4dUDCAc&uact=5
+
+  [ 2020-06-08 03:51:51 ]  https://www.canva.com/
+
+  [ 2020-06-08 03:52:18 ]  https://www.canva.com/?__cf_chl_captcha_tk__=9ee64bb07e588ecd4145934b9c3254b23c854766-1591568511-0-AcumQizlBD6i9J7HDoHhX7CilCbbv8A2BDYuxCbEWpT1Eeb2dBjAxsHabg3os3I0imeG5zS8VKAmp3JyTTZDI_g27aVXDTxJPovOzNgCW_rzQwwQh2ucX2FCEW8DPZBPQPEpVsxR6_eM0vUEStZWqm19jAh7xOD8NIyxxKpmIsMAiJH8me0OYyOZKEgNSrr-aeZWMt6pUEJGTuP4moRs2SJ1W1zXr7ws7FXROHog8PXh6D0qPyFtDaZuXGnhGZszgfcxERtp8vL1WOcXmtgmavNjuKA6EM_S0angs7gRlSeplEjBIz-NT2gvffWeud_z_PZrqaFQzxxPTOfJMzxVQrteAZeJRlP0eZQHmtnKYiXVzkgvS6A59h6cufoBmOqfN3DEDpNtYkOBzPatvGnEsNs91NStGVmstya9MzDKP6ZMLx76OdohLGqH9jYlBXSaaBk-UGzHGnmmMn6l3yIlxbELN5uOy65-tgi_v4g_s0Zcy0qRiHjsj-8w7OJ_Qi9PCirvB2bs99oEh17I7vEqPLHvrkRLCOZLuLOJsm86Bgco
+
+  [ 2020-06-08 03:53:04 ]  https://www.canva.com/
+
+  [ 2020-06-08 03:53:38 ]  https://www.canva.com/design?create&type=TABQqnM7Tvw&category=tACZCtsMxNo&schema=web-2
+
+  [ 2020-06-08 03:53:39 ]  https://www.canva.com/design/DAD-hv7muxA/_0mtlojDIKjfSnJ7LWZz9g/edit?category=tACZCtsMxNo
+
+  [ 2020-06-08 03:54:01 ]  https://www.canva.com/
+
+  [ 2020-06-08 03:54:15 ]  https://www.canva.com/search/templates?q=A4 Document&category=tACZCgsdcSU&doctype=TACQ-j4WGew&designSpec=djE6dEFDWkNnc2RjU1U6Z2xvYmFsLWE0&width=21&height=29.7
+
+  [ 2020-06-08 03:54:42 ]  https://www.youtube.com/watch?v=b73BI9eUkjM
+
+  [ 2020-06-08 03:54:49 ]  https://www.canva.com/
+
+  [ 2020-06-08 03:55:06 ]  https://www.youtube.com/results?search_query=despacito
+
+  [ 2020-06-08 03:55:10 ]  https://www.youtube.com/watch?v=kJQP7kiw5Fk
+
+  [ 2020-06-08 03:55:16 ]  https://www.canva.com/brand
+
+  [ 2020-06-08 03:55:24 ]  https://www.canva.com/teams
+
+  [ 2020-06-08 03:55:25 ]  https://www.canva.com/
+
+  [ 2020-06-08 03:56:53 ]  https://www.canva.com/search/templates?q=Resumes&category=tACZCki4tbY&doctype=TACQ-j4WGew&order=B
+
+  [ 2020-06-08 03:58:03 ]  https://www.canva.com/templates/search/card/
+
+  [ 2020-06-08 03:59:27 ]  https://www.youtube.com/watch?v=JGwWNGJdvx8
+
+  [ 2020-06-08 04:01:50 ]  https://www.youtube.com/watch?v=lY2yjAdbvdQ
+
+  [ 2020-06-08 04:05:06 ]  https://google.com
+
+  [ 2020-06-08 04:05:06 ]  https://google.com/
+
+  [ 2020-06-08 04:05:06 ]  https://www.google.com/
+
+  [ 2020-06-08 04:29:19 ]  https://www.youtube.com/
+
+  [ 2020-06-08 04:29:39 ]  https://www.youtube.com/watch?v=TyHvyGVs42U
+
+  [ 2020-06-08 04:32:45 ]  https://www.youtube.com/watch?v=Pkh8UtuejGw
+
+  [ 2020-06-08 04:34:07 ]  https://google.com
+
+  [ 2020-06-08 04:34:07 ]  https://google.com/
+
+  [ 2020-06-08 04:34:08 ]  https://www.google.com/
+
