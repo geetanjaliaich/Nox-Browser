@@ -8,10 +8,16 @@ from PyQt5.QtCore import (Qt, pyqtSignal,QUrl, QSize)
 from PyQt5.QtWebEngineWidgets import *
 from option_window_class2 import *
 
+#first installation of PyQt5, QWebEngine, datetime, os, sys is required
+
+#This class is used for creating the tab of the browser
 
 class TabPage(QMainWindow):
+
     def __init__(self,urlview,t_no):
         super().__init__()
+        # First, initialize the tab page with the url it is going to open and the tab number.
+        # and set the incognito and reference mode flags down
         self.tab_no=t_no
 
         self.incog_flag = 0
@@ -32,10 +38,11 @@ class TabPage(QMainWindow):
         self.pagewindow.setUrl(QUrl(urlview))
 
 
-
+        # This signal is generated when the url has changed in the current tab page object
         self.pagewindow.urlChanged.connect(self.update_urlbar)
+        # This signal is generated when the loading the current url has finished
         self.pagewindow.loadFinished.connect(self.update_title)
-        #self.pagewindow.triggerPageAction()
+
 
         self.setCentralWidget(self.pagewindow)
 
@@ -111,20 +118,35 @@ class TabPage(QMainWindow):
         self.show()
 
     def navigate_home(self):
+        '''
+        This function is triggered when the home button is clicked.
+        '''
         self.pagewindow.setUrl(QUrl("http://www.google.com"))
 
-    def navigate_to_url(self):  # Does not receive the Url
+    def navigate_to_url(self):
+        '''
+        Useful for setting the url of the pagewindow.
+        '''
         q = QUrl(self.urlbar.text())
         if q.scheme() == "":
             q.setScheme("http")
-
-        #print(q.toString()) #Update 1: fixed bug of not detecting enter
-        self.pagewindow.setUrl(q) #Update 1
+        self.pagewindow.setUrl(q)
 
     def update_title(self):
+        '''
+        Updates the title of the tab
+        '''
         self.title = self.pagewindow.page().title()
 
     def update_urlbar(self, q):
+        '''
+        This function, updates the urlbar with q and at the same time records
+        history if incognito is off or reference mode is on. While updating it
+        is necessary to check if the page has been bookmarked. If it has been
+        bookmarked, then the bookmark button needs to be turned blue(Which is obtained from the images).
+        :param q: URL of the page
+        :return:
+        '''
 
         self.urlbar.setText(q.toString())
         self.urlbar.setCursorPosition(0)
@@ -151,7 +173,14 @@ class TabPage(QMainWindow):
         bm.close()
 
     def option(self):
+        '''
+        This function is triggered when the options button is clicked.
+        It opens up a options_window_class2 object for the current page.
+        :return:
+        '''
         self.dlg=Ui_Dialog(self.tab_no)
+
+        #This logic is used for toggling of the incognito and reference button
 
         if self.ref_flag == 0:
             self.dlg.Ref_btn.setText("Turn ON Reference")
@@ -163,6 +192,9 @@ class TabPage(QMainWindow):
         else:
             self.dlg.Incog_btn.setText("Turn OFF Incognito")
 
+        # If any of the buttons are clicked, then appropriate constant will be passed to the
+        # WriteOnShowArea function. Accordingly, the necessary text files will be displayed.
+
         self.dlg.Incog_btn.clicked.connect(lambda: self.WriteOnShowArea("i"))
         self.dlg.Bookmarks_btn.clicked.connect(lambda: self.WriteOnShowArea("b"))
         self.dlg.Ref_btn.clicked.connect(lambda: self.WriteOnShowArea("r"))
@@ -171,6 +203,11 @@ class TabPage(QMainWindow):
         self.dlg.exec_()
 
     def WriteOnShowArea(self, option):
+        '''
+        This function will show necessary text files onto the show area.
+        :param option: may be h,b,i or r as per the button which is clicked
+        :return:
+        '''
         self.dlg.show_area.clear()
         if option=="h":
             t = open("History.txt", "r")
@@ -192,7 +229,7 @@ class TabPage(QMainWindow):
                 self.dlg.Incog_btn.setText("Turn ON Incognito")
 
         elif option=="r":
-            #print("Flag is now: ", self.ref_flag)
+
 
             if self.ref_flag == 0:
                 self.dlg.show_area.setText('Reference has been turned on')
@@ -210,6 +247,11 @@ class TabPage(QMainWindow):
                 self.ref_flag=0
 
     def bookmarkSaver(self):
+        '''
+        This function is useful for writing on the bookmark.txt file
+        :return:
+        '''
+
         link = self.urlbar.text() + "\n"
         self.book = open("Bookmarks.txt", "r")
         links=self.book.readlines()
@@ -229,6 +271,7 @@ class TabPage(QMainWindow):
 
         self.book_btn.setIcon(QtGui.QIcon('images/bookmark_done.png'))
 
+#This HomeTabWindow object is created when the application is executed
 
 class HomeTabWindow(QWidget):
 
@@ -255,6 +298,10 @@ class HomeTabWindow(QWidget):
         self.UI.tabCloseRequested.connect(self.tabdestructor)
 
     def setUILayout(self):
+        '''
+        Used for setting up the entire hometab user interface
+        :return:
+        '''
 
         buttonlayout = QGridLayout()
         buttonlayout.setColumnMinimumWidth(0, 100)
@@ -357,18 +404,22 @@ class HomeTabWindow(QWidget):
         self.UI.show()
 
     def createTab(self,starttaburl="http://google.com"):
+        '''
+        This function created a tab page by passing on the url of the tab to be
+        created and the count of the tab.i.e, which tab it is.
+        :param starttaburl:
+        :return:
+        '''
 
         self.tabcount = self.tabcount + 1
-        #print(self.tabcount)
 
-        self.UI.tab = TabPage(starttaburl, len(self.tablist)+1)#self.tabcount
+        self.UI.tab = TabPage(starttaburl, len(self.tablist)+1)
         self.tablist.insert(self.tabcount-1, self.UI.tab)
         self.UI.addTab(self.tablist[self.tabcount-1],"Loading...")
         self.UI.setCurrentIndex(self.tabcount)
         self.tablist[self.tabcount-1].pagewindow.loadFinished.connect(self.printer)
         self.UI.setTabText(self.tabcount,"Loading...")
-        #tab.setUrl(QUrl("http://google.com"))
-        #tablayout.addWidget
+        # If a download request is encountered while tab creation, the dialog box is opened.
         self.UI.tab.pagewindow.page().profile().downloadRequested.connect(self.on_downloadRequested)
 
     @QtCore.pyqtSlot("QWebEngineDownloadItem*")
@@ -385,24 +436,30 @@ class HomeTabWindow(QWidget):
             download.finished.connect(self.foo)
 
     def foo(self):
+        '''
+        This function prints finish on the console when download is completed
+        :return:
+        '''
         print("finished")
 
     def tabdestructor(self, index):
-
+        '''
+        This method is useful for deleting a tab. Since, one needs to unsubscribe while closing
+        a youtube tab, a logic has been added to handle youtube pages. If it is a
+        youtube page, then first set the url of the page to google (this will stop the sound)
+        and then close it. If the tab is the home tab, then the application is closed.
+        :param index:
+        :return:
+        '''
 
         if index != 0:
             self.UI.setCurrentIndex(index)
 
-            #Interface.destroy(True,True)
             self.tabcount =self.tabcount-1
-            #print(index, " tab closed")
-            #print(self.tabcount, " no of tabs")
-            #print(self.tablist)
-            #prevlink=self.tablist[index-2].url
-            #print(prevlink)
+
             if "youtube" in self.tablist[index-1].url:
-                #print("YESSSSSSSSSSSSSSSSS")
                 self.tablist[index-1].pagewindow.setUrl(QUrl("https://google.com"))
+
             self.tablist.pop(index-1)
             self.UI.removeTab(index)
             self.UI.setCurrentIndex(index-1)
@@ -411,6 +468,10 @@ class HomeTabWindow(QWidget):
             sys.exit()
 
     def printer(self):
+        '''
+        Used to set the tab title once data has been retrieved
+        :return:
+        '''
         if self.tabcount != 0:
             self.UI.setTabText(self.tabcount,self.UI.tab.title)
 

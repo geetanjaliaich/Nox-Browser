@@ -1,10 +1,7 @@
-# -*- coding: utf-8 -*-
+# This is the class used for creating the option dialog box.
+# An object of the class is created when the option button is invoked
 
-# Form implementation generated from reading ui file 'option_window2.ui'
-#
-# Created by: PyQt5 UI code generator 5.14.2
-#
-# WARNING! All changes made in this file will be lost!
+
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
@@ -70,7 +67,7 @@ class Ui_Dialog(QtWidgets.QDialog):
         self.show_area.setCursorWidth(0)
         self.show_area.setPlaceholderText("1.) Bookmarks - Contains links saved\n\n2.) History - Contains history of previous urls visited\n\n3.) Reference - A special feature to record history when this feature is on. On turning it off, it display the recorded history.\n\n4.) Incognito - Search without saving browser history\n\n---[Note]---\nThe feature References and Incognito mode is available only for the first tab that is created after the Home Page and can be operated from only that tab. Closing the tab will result in error")
 
-        #self.writeOnShowArea()
+
 
         self.show_area.setObjectName("show_area")
 
